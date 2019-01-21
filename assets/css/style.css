@@ -1,10 +1,25 @@
+body{
+    background-color: #5a2b81;
+    color: white;
+    background-size: 100px 100px;
+    font-family: cast-light;
+}
+
 .center{
-    /* background-color: red; */
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .container{
-    background-color: green;
-    height: 600px;
-    /* width: 1000px; */
+    background-color: #63727a;
+}
+
+button{
+    background-color: #5a2b81;
+    border-color: black;
+    margin: 20px 20px 0px 20px;
+}
+
+img{
+    height: 300px;
 }
